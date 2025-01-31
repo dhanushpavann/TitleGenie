@@ -1,11 +1,12 @@
-# TitleGenie.ai 🌟  
+# TitleGenie.ai 
 **Your AI-Powered YouTube Title Optimization Suite**
 
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Active-success)](https://titlegenie.live)  
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-yellow.svg)](https://python.org)  
-[![Django 4.2](https://img.shields.io/badge/Django-4.2-0C4B33)](https://www.djangoproject.com)  
-[![OpenAI GPT](https://img.shields.io/badge/OpenAI-GPT_3.5/4-412991)](https://openai.com)
+[![Django 4.2](https://img.shields.io/badge/Django-4.2-0C4B33)](https://www.djangoproject.com)
+[![Gemini AI](https://img.shields.io/badge/Gemini-1.5-412991)](https://gemini.ai)
+
 
 <div align="center">
   <img src="assets/demo-screenshot.png" alt="TitleGenie Interface" width="800">
