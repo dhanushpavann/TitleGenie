@@ -1,9 +1,17 @@
 import google.generativeai as genai
 from django.shortcuts import render
 from django.http import JsonResponse
+import os
+from dotenv import load_dotenv
 
-# Configure Google Gemini AI
-genai.configure(api_key="AIzaSyANU2neHiRfz-IzCbNfVxD-xZyUaBLZrLk")
+load_dotenv()  # Load environment variables from .env file
+
+API_KEY = os.getenv("GENAI_API_KEY")
+
+if not API_KEY:
+    raise ValueError("API Key not found! Please set it in the .env file.")
+
+# Use the API key securely in your functions
 
 # Define the generation configuration
 generation_config = {
