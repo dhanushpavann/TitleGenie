@@ -1,5 +1,3 @@
-import os
-from dotenv import load_dotenv
 """
 Django settings for yt project.
 
@@ -11,10 +9,6 @@ https://docs.djangoproject.com/en/5.1/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/5.1/ref/settings/
 """
-
-
-# Load environment variables first
-load_dotenv()
 
 
 
