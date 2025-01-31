@@ -12,24 +12,12 @@
   <p><em>Generate high-performing YouTube titles in seconds</em></p>
 </div>
 
-## Table of Contents 📚
-- [Features](#-features)
-- [Installation](#-installation)
-- [Configuration](#-configuration)
-- [Usage](#-usage)
-- [Architecture](#-architecture)
-- [API Documentation](#-api-documentation)
-- [Contributing](#-contributing)
-- [Roadmap](#-roadmap)
-- [FAQ](#-faq)
-- [License](#-license)
-- [Acknowledgements](#-acknowledgements)
 
 ## 🚀 Features
 
 ### Core Features
 - **AI-Powered Title Generation**  
-  GPT-4 powered analysis of video content and context-aware suggestions
+  Gemini AI powered analysis of video content and context-aware suggestions
 - **CTR Optimization Engine**  
   Built-in click-through rate prediction using historical YouTube data patterns
 - **Multi-Variant Output**  
