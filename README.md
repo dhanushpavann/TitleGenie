@@ -11,10 +11,10 @@
 
 <img src="yt/app1/static/css/assests/Screenshot 2025-01-31 192359.png" alt="Light Theme UI">
 <img src="yt/app1/static/css/assests/Screenshot 2025-01-31 192411.png" alt="Dark Theme  UI">
-<img src="yt/app1/static/css/assests/Screenshot 2025-01-31 192430.png"  alt="Projects UI">
-<img src="yt/app1/static/css/assests/Screenshot 2025-01-31 192459.png" alt="Skills UI">
-<img src="yt/app1/static/css/assests/Screenshot 2025-01-31 192514.png" alt="Contact UI">
-<img src="yt/app1/static/css/assests/Screenshot 2025-01-31 193112.png" alt="Contact UI">
+<img src="yt/app1/static/css/assests/Screenshot 2025-01-31 192430.png"  alt="UI">
+<img src="yt/app1/static/css/assests/Screenshot 2025-01-31 192459.png" alt=" UI">
+<img src="yt/app1/static/css/assests/Screenshot 2025-01-31 192514.png" alt="UI">
+<img src="yt/app1/static/css/assests/Screenshot 2025-01-31 193112.png" alt="Result UI">
 
 
 
