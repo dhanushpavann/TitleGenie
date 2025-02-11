@@ -45,7 +45,7 @@
 
 ### Prerequisites
 - Python 3.10+
-- OpenAI API key
+- Gemini API key
 - PostgreSQL (recommended)
 
 ### Setup Guide
